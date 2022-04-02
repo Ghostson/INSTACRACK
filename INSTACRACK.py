@@ -87,7 +87,7 @@ alosh = """
 \033[1;31m[\033[2;32m*\033[1;31m]\033[2;32mGITHUB🔥\033[1;33m:\033[1;36m👉Ghostson
 \033[1;33m----------------------------‐-------------------------
 """
-print (PLEASE THE TOOL IS FOR EDUCATIONAL PURPOSES)
+
 print (alosh)
 tok= input(A+"("+E+"⌯"+A+")"+X+ " Enter Token :\n"+C)
 ID = input(A+"("+E+"⌯"+A+")"+X+ " Enter ID Tele :\n"+C)

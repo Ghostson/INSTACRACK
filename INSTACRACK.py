@@ -97,7 +97,7 @@ current_time = time.strftime("%H:%M:%S", t)
 print('  ') 
 sleep(2)
 start_msg = requests.post(f"https://api.telegram.org/bot{tok}/sendMessage?chat_id={ID}&text=start").json()
-id_msg	=(start_msg['result']["message_id"])
+
 def Alosh_cob(user_Alosh,password):
 	cookie = secrets.token_hex(8)*2
 	head = {
